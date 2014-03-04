@@ -1,0 +1,6 @@
+c:\users\zuckerberg\documents\visual studio 2012\Projects\Graphs\Graphs\bin\Debug\Graphs.exe.config
+c:\users\zuckerberg\documents\visual studio 2012\Projects\Graphs\Graphs\bin\Debug\Graphs.exe
+c:\users\zuckerberg\documents\visual studio 2012\Projects\Graphs\Graphs\bin\Debug\Graphs.pdb
+c:\users\zuckerberg\documents\visual studio 2012\Projects\Graphs\Graphs\obj\Debug\Graphs.csprojResolveAssemblyReference.cache
+c:\users\zuckerberg\documents\visual studio 2012\Projects\Graphs\Graphs\obj\Debug\Graphs.exe
+c:\users\zuckerberg\documents\visual studio 2012\Projects\Graphs\Graphs\obj\Debug\Graphs.pdb
